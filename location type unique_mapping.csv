@@ -1,0 +1,220 @@
+Location Type,mapping
+na,NA
+Street,Public
+RESIDENTIAL BUILDING,Residential
+Street/Sidewalk,Public
+Sidewalk,Public
+Residential Building/House,Residential
+Store/Commercial,Commercial
+Park,Park
+1-2 Family Dwelling,Residential
+Restaurant/Bar/Deli/Bakery,Commercial
+Commercial Building,Commercial
+Property Address,Residential
+3+ Family Apartment Building,Residential
+Other (Explain Below),Other
+Other,Other
+Park/Playground,Park
+Street/Curbside,Public
+Lot,Commercial
+3+ Family Apt. Building,Residential
+Club/Bar/Restaurant,Commercial
+Senior Address,Residential
+Residential Building,Residential
+3+ Family Mixed Use Building,Residential
+Curb,Public
+Comercial,Commercial
+Mixed Use,Public
+Bus Stop Shelter,Public
+Bike Lane,Public
+1-2 Family Mixed Use Building,Residential
+Residential,Residential
+Mobile Food Vendor,Commercial
+School,Public
+"1-, 2- and 3- Family Home",Residential
+Highway,Public
+Vacant Lot,Commercial
+Above Address,Other
+Building (Non-Residential),Commercial
+Public/Unfenced Area,Public
+House of Worship,Other
+Business,Commercial
+Construction Site,Public
+Co-Op Unit,Other
+Taxi,Taxi
+Crosswalk,Public
+Residence,Residential
+DRIE Tenant's Address,Residential
+Caller Address,Residential
+Vacant Building,Other
+Yard,Commercial
+Parking Lot/Garage,Commercial
+Condo Unit,Residential
+Restaurant,Commercial
+Private School,Public
+Street Area,Public
+Hallway,Residential
+Apartment,Residential
+Catch Basin/Sewer,Residential
+Government/Not-for Profit,Other
+Pool,Public
+Residential Property,Residential
+House and Store,Residential
+Commercial,Commercial
+Recreation Center,Public
+Private House,Residential
+Stairwell,Residential
+Food Cart Vendor,Commercial
+Overpass,Public
+Address,Residential
+Bridge,Public
+Vehicle Lane,Public
+Alley,Public
+Gutter,Public
+Senior Center,Residential
+Common Area,Public
+Subway,Public
+Beach,Public
+Apartment Building,Residential
+Lobby,Residential
+Government Building,Public
+Green Cart Vendor,Commercial
+Public Garden,Public
+Tattoo Parlor,Commercial
+Kennel/Animal Shelter,Other
+Bridge/Underpass,Public
+Street and Sidewalk,Public
+Store,Commercial
+Indoor Public Place,Public
+Catering Service,Commercial
+1-3 Family Dwelling,Residential
+Parking Lot,Commercial
+School/Pre-School,Public
+Building,Residential
+Single Room Occupancy (SRO),Residential
+Traffic Island or Median,Other
+Public School,Public
+Intersection,Public
+Office Building,Commercial
+Day Care/Nursery,Other
+Subway Station,Public
+Speed Reducer,Public
+Public Park/Garden,Public
+Grocery Store,Commercial
+Other (explain in Complaint Details),Other
+Roadway Tunnel,Public
+Abandoned Building,Other
+Street Vendor,Commercial
+Cafeteria - College/University,Public
+Public Garden/Park,Public
+Soup Kitchen,Public
+Roof,Residential
+Vacant Lot/Property,Public
+Groomer,Commercial
+School Safety Zone,Public
+Petting Zoo/Animal Exhibit,Commercial
+Hospital,Public
+School - K-12 Public,Public
+Public Stairs,Public
+Roadway,Public
+Street Address,Public
+Cafeteria - Public School,Public
+Spa Pool,Other
+NR5,Other
+Pvt Residnt Proprty,Other
+Airport or Train/Bus Station,Commercial
+Street Fair Vendor,Commercial
+Garage,Commercial
+Private Residence,Other
+Medical Facility,Public
+Commercial Property,Commercial
+1-3 Family Mixed Use Building,Residential
+NR4,Other
+Homeless Shelter,Public
+Cafeteria - Private School,Public
+Pier,Public
+AD3,Other
+Private Property,Other
+Sauna,Other
+Swamp or Pond,Public
+Service Provider,Other
+Steam Room,Commercial
+Ferry,Public
+Golf,Commercial
+Loft Residence,Residential
+Cafeteria,Commercial
+Ground,Public
+Horse Stable,Other
+School - K-12 Private,Public
+Inside,Residential
+Theater,Commercial
+School - College/University,Public
+AE4,Other
+Cafeteria - Private,Commercial
+Vacant Land,Public
+Non-Profit,Other
+Tire Shop,Commercial
+Public Plaza,Public
+Wooded Area,Other
+AS1,Other
+AD2,Other
+3+ Family Apt.,Residential
+Permanent Food Stand,Commercial
+Nursing Home,Residential
+Loft Building - Common Areas,Residential
+Etc) (NR10),Other
+Sports Arena,Commercial
+Tanning Salon,Commercial
+Summer Camp,Other
+Retail Store,Commercial
+Correctional Facility - City,Other
+Catering Hall,Other
+AA4,Other
+Doctor's Office,Other
+Health Club,Commercial
+Terminal,Commercial
+Nail Salon,Commercial
+Veterinarian's Office,Other
+Cemetery,Public
+Building-Wide,Other
+Correctional Facility - State,Other
+Community Organization,Other
+HQL,Other
+Building Entrance,Other
+Dentist's Office,Other
+NR6,Other
+QA5,Other
+Public Area,Public
+3+Family Apt.,Residential
+Health Club or Gym,Commercial
+3+ Family ApT,Residential
+Government Building - Foreign,Other
+Adult Establishment,Residential
+1-2 FamilyDwelling,Residential
+3+ Family,Residential
+QG2,Other
+QA3,Other
+QA4,Other
+HC2,Other
+Advocate - RPIE,Other
+QBZ,Other
+HC1,Other
+Flushometer,Other
+QA2,Other
+QA1,Other
+Vending Machine,Other
+Vaccine Mandate Non-Compliance,Other
+Unsanitary Condition,Other
+Privately Owned Public Space,Other
+General,Other
+Flooring/Stairs,Other
+COVID-19 Executive Order,Other
+Building Sign,Other
+Advocate - Other,Other
+Abandoned Bike,Other
+3+ Family Apt,Residential
+1-2Family Dwelling,Residential
+1/2 Family Dwelling,Residential
+3+ Family Mixed,Residential
+3+ Family Apart,Residential
+Food Establishment,Other
